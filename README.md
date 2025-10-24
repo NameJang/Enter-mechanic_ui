@@ -1,5 +1,5 @@
 ## Showcase
-![Mechanic Ui]([https://media.discordapp.net/attachments/952305663344795739/1431320422611423322/Laboxpic.png?ex=68fcfc85&is=68fbab05&hm=e3d29eab0c8e28845b05f4e983447995f0103286765d7a9db9de2523dfdc2ded&=&format=webp&quality=lossless](https://media.discordapp.net/attachments/952305663344795739/1431325774014713937/mec.png?ex=68fd0181&is=68fbb001&hm=cdbd4c5978e5bf1ae0b6ed12cbbf76e54603208f224292eb9b9605aeb6265291&=&format=webp&quality=lossless))
+![Mechanic Ui](https://media.discordapp.net/attachments/952305663344795739/1431325774014713937/mec.png?ex=68fd0181&is=68fbb001&hm=cdbd4c5978e5bf1ae0b6ed12cbbf76e54603208f224292eb9b9605aeb6265291&=&format=webp&quality=lossless)
 
 ---
 
